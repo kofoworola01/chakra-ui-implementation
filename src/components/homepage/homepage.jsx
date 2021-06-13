@@ -11,7 +11,7 @@ import leaf from "../../img/leaf.png"
 function homepage() {
 
     return (
-        <Box maxW="100%"  bg="teal.400">
+        <Box maxW="100%">
 
             <Flex h="48px" justify="flex-end" p={7} mb="4px" >
                 <HStack spacing="24px">
